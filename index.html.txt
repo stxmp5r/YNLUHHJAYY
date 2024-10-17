@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>stxmp5r - Rap Artist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        h1 {
+            font-size: 3em;
+        }
+        h2 {
+            font-size: 2em;
+            margin: 20px 0;
+        }
+        .content {
+            max-width: 800px;
+            margin: auto;
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+        }
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to stxmp5r's World</h1>
+    <h2>Rap Artist</h2>
+</header>
+
+<div class="content">
+    <h2>About Me</h2>
+    <p>I'm stxmp5r, a passionate rap artist dedicated to sharing my music and stories through powerful lyrics and beats.</p>
+
+    <h2>My Music</h2>
+    <p>Check out my latest tracks and projects. Music is my life, and I'm excited to share it with you!</p>
+
+    <h2>Connect with Me</h2>
+    <p>Follow me on social media:</p>
+    <ul>
+        <li><a href="https://www.instagram.com/ynluhhjayy" target="_blank">Instagram</a></li>
+        <li><a href="https://www.tiktok.com/@2lstxmper" target="_blank">TikTok</a></li>
+        <li><a href="https://twitter.com/ynluhhjayy" target="_blank">X (Twitter)</a></li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>For collaborations or inquiries, reach out to me at <a href="mailto:ynluhhjayy@gmail.com">ynluhhjayy@gmail.com</a>.</p>
+</div>
+
+<footer>
+    <p>&copy; 2024 stxmp5r. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
